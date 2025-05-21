@@ -4,8 +4,8 @@
     },
     "sub": {
         "nom": "M126lavigne",
-        "gifter": "Renix_off",
-        "offert": false,
+        "gifter": "",
+        "offert": true,
         "tier": 1
     }
 }
