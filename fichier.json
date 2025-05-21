@@ -5,7 +5,7 @@
     "sub": {
         "nom": "M126lavigne",
         "gifter": "testodsdsd",
-        "offert": false,
+        "offert": true,
         "tier": 1
     }
 }
